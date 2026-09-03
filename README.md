@@ -6,6 +6,6 @@ Projeto educativo sobre Git e GitHub
 
 | Nome | Email | GitHub |
 |------|-------|--------|
-| João Silva | joao.silva@email.com | @joaosilva |
-| Maria Santos | maria.santos@email.com | @mariasantos |
-| Pedro Costa | Pedro.costa@email.com | @pedrocosta |
+| Thiago Barbosa | tga279754@gmail.com | @Caproba |
+| Maria Santos | rafaeluilianalmeidastarke2024@gmail.com | @rafa3132 |
+| Wilcker Castro | wilckercst@gmail.com | @Wil-codex |
